@@ -1,0 +1,12 @@
+numpy
+matplotlib
+scipy
+scikit-learn
+pandas
+joblib
+datetime
+statsmodels
+
+swig
+box2d-py
+gymnasium[box2d]
